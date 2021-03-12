@@ -5,7 +5,7 @@ int main() {
 char ans[20];
 char affirmative[] = "yes";
 
-printf("Hello There! Welcome to FUCK THE POLICE Simulator Version 6969. Are you HORNY enough to fuck em HARD (yes/no)");
+printf("Hello There! Welcome to FUCK THA POLICE Simulator Version 6969. Are you HORNY enough to fuck em HARD?");
 scanf("%s", &ans);
 
  if(strcmp(affirmative, ans) == 0) {
